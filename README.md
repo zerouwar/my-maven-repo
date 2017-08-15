@@ -1,5 +1,5 @@
 # my-maven-repo
-My personal maven repo collecting utils I Wrote.
+My personal maven repo collecting utils I wrote.
 
 ## Usage
 1. add the repository position
